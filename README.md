@@ -6,17 +6,18 @@ The goal of this project is to combine everything you have learned about data wr
 
 ## TO DO's
 
-1. Decide on hypothesis (or hypotheses)
+1. Decide on research question (or research questions)
 2. Explore the data and write down what you have found
    - you can use: `df.describe()`, `df["column"]`, etc.
 3. Draw graphs that are insightful. 
 4. Use at least 5 data cleaning techniques inside a file named `clean.ipynb`
    - null values, columns drop, duplicated data, string manipulation, apply fn, categorize, regex, etc.
-5. Show data that validates the conclusions based on your hypoteses in a file named `analysis.ipynb`
+5. Show data that validates the conclusions based on your research questions in a file named `analysis.ipynb`
 6. Build a compelling story-telling around your findings. Think of your stakeholders and convince them with your conclusions! (Some slides with few text and pretty plots are normally useful)
 7. Encapsulate your code into functions and save them into `.py` files: make sure you have docstrings
 8. Import those functions into your jupyter notebooks and call them (you will substitue your code with your own functions)
 9. Work on titles and comments to have a well presented and cohesive story in your notebook
+10. Include a slide-based presentation where you present your findings/conclusions/insights.
 
 ## Suggested Ways to Get Started
 
@@ -35,6 +36,7 @@ The goal of this project is to combine everything you have learned about data wr
    - At least 1 jupyter notebook is required
    - Including your functions in a `src.py` is very, very highly reccommended (maybe even mandatory, check with your instructors)
    - **DO NOT UPLOAD SHARKs ATTACK DATASET TO GITHUB**
+   - Make sure that you are as detailed on your README.md as possible . The goal for this is so that everyone (knowledgeable or not )on the topic can understand.
 2. Open an `Issue` on this repo and paste your own repo's link.
 
 ## Links & Resources
